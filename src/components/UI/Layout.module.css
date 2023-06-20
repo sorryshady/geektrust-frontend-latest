@@ -1,0 +1,12 @@
+.searchSort{
+    position: fixed;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    max-height: 5rem;
+    top: 5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 800;
+}
